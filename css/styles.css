@@ -1,0 +1,39 @@
+
+.tx-s {
+  font-size: .75rem;
+}
+.smallImages{
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.custNavbar {
+  margin: auto 25px auto 25px;
+}
+
+.content-wrapper {
+  margin-top: 15px;
+}
+.small-box {
+  padding: 5px 0;
+  margin-bottom: 10px;
+}
+.black-icon {
+  padding: 5px;
+  color: black;
+  font-size: 2.5rem;
+}
+.card-header {
+  padding: 6px 10px 0 10px;
+}
+.card-body {
+  background-color: white;
+  height: 120px;
+}
+.card-title {
+  margin: auto;
+  font-family: 'Ubuntu', sans-serif;
+}
+.hidden-card {
+  display: none;
+}
